@@ -146,6 +146,6 @@
 - **[亚洲云](https://www.asiayun.com/aff/WUDVIIUD)**：提供云计算服务资源支持
   
 # 7.my adding
-- 增加picgo自定义网页上传插件设置: https://github.com/PicGo/Awesome-PicGo/blob/master/README.md，这里的是它自己汇总的，我们加的是原作者的(fork之前的)
+- 增加picgo自定义网页上传插件设置: https://github.com/PicGo/Awesome-PicGo/blob/master/README.md
 - cloudflare: dev网址该国家/地区不可用，使用自己的域名
 
