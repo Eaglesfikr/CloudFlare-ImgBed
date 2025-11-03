@@ -144,4 +144,8 @@
   <a href="https://www.cloudflare.com"><img src="static/readme/cloudflare-logo.png" alt="Cloudflare Logo" height="25"></a> <a href="https://edgeone.ai/?from=github"><img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" alt="Tencent Logo" height="25"></a>
 
 - **[亚洲云](https://www.asiayun.com/aff/WUDVIIUD)**：提供云计算服务资源支持
+  
+# 7.my adding
+增加picgo自定义网页上传插件设置: https://github.com/PicGo/Awesome-PicGo/blob/master/README.md
+cloudflare: dev网址该国家/地区不可用，使用自己的域名
 
